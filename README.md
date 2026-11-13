@@ -16,3 +16,6 @@ Página web del Festival DAM 2027.
 
 ## Publicación
 Próximamente disponible mediante GitHub Pages.
+
+## Web publicada
+https://alcayasanchez.github.io/festival-dam-2027/
