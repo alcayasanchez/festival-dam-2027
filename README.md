@@ -19,3 +19,5 @@ Próximamente disponible mediante GitHub Pages.
 
 ## Web publicada
 https://alcayasanchez.github.io/festival-dam-2027/
+
+- Abono de dos días: 45 € para acceder el viernes 18 y sábado 19 de junio de 2027.
