@@ -1,5 +1,11 @@
 # Historial de cambios
 
+## Versión 1.1
+- Entrada VIP de un día a 60 €: acceso preferente, zona de descanso y consumición incluida.
+- Abono general de dos días a 45 €.
+- Corrección del precio de la VIP (600 € → 60 €) y del abono (450 € → 45 €) mediante revert, conservando el historial.
+- Eslogan definitivo acordado: «Vive la música sin límites».
+- README actualizado con la web publicada y las nuevas entradas.
 ## Versión 1.0
 - Página principal con información general del festival.
 - Programa de actuaciones de los dos días.
