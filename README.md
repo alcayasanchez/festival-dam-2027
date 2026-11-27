@@ -21,3 +21,4 @@ Próximamente disponible mediante GitHub Pages.
 https://alcayasanchez.github.io/festival-dam-2027/
 
 - Abono de dos días: 45 € para acceder el viernes 18 y sábado 19 de junio de 2027.
+- Entrada VIP de un día: 60 €, con acceso preferente, zona de descanso y una consumición incluida.
